@@ -7,13 +7,20 @@ and open the template in the editor.
     Created on : 29 nov. 2023, 09:31:39
     Author     : noa.legouverneur
 */
-body{
-background-color: greenyellow;    
+#texte
+{
+    width: 80px;
+    height: 1000px;
+    margin: 0 auto;
+    background_color: brown;
+    border: 2px solid grey;
+    box-shadow: 0px 0px 10px white;
+    ]
+
+body 
+{
+    background-image: url("https://images.app.goo.gl/HGoSNs5AXH7HcbUn7.jpg");
+    background-attachement: fixed;
 }
-hl {
-    color: red;
-    font-family: serif;
-    font-size: 20px;
-    margin-left: 20px
     
-}
+    
