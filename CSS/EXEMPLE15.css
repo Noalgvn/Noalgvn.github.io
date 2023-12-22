@@ -12,14 +12,13 @@ and open the template in the editor.
     width: 80px;
     height: 1000px;
     margin: 0 auto;
-    background_color: brown;
     border: 2px solid grey;
     box-shadow: 0px 0px 10px white;
     ]
 
 body 
 {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbD84OXh8r_08obDC9HKdFOlwe3aL86txKp38_tMZXSshNaG3R_FDycoXMddruKQ9GbM&usqp=CAU");
+    background-image: url("image/Thelastofus.jpg");
     background-attachement: fixed;
 }
     
