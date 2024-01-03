@@ -7,19 +7,10 @@ and open the template in the editor.
     Created on : 29 nov. 2023, 09:31:39
     Author     : noa.legouverneur
 */
-img {
+img{
     position: absolute;
     top: 0px;
     left: 0px;
     z-index: -1;
-    
-    
 }
-
-body 
-{
-    background-image: url("image/Thelastofus.jpg");
-    background-attachement: fixed;
-}
-    
     
