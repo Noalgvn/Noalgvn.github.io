@@ -7,23 +7,6 @@ and open the template in the editor.
     Created on : 29 nov. 2023, 09:31:39
     Author     : noa.legouverneur
 */
-hl {
-    color: red;
-    font-family: serif;
-    font-size: 20px;
-    margin-left: 20px
-    
-}
-
-
-img {
-    position: absolute;
-    top: 0px;
-    left: 0px
-    z-index: -1;
-    width: 880px;
-    height: 880px;
-    
-    
-
+body {
+    background-image : url("https://wallpapercave.com/wp/wp6448284.jpg");
 }
