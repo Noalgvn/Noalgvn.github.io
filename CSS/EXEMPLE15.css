@@ -4,9 +4,15 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 29 nov. 2023, 09:31:39
-    Author     : noa.legouverneur
-*
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+
+
 body {
   background : url('./image/The_Last_Of_Us.jpeg');
 }
+
