@@ -7,8 +7,6 @@ and open the template in the editor.
     Created on : 29 nov. 2023, 09:31:39
     Author     : noa.legouverneur
 *
-<style>
-p {
-  background-image: url('The_Last_Of_Us.jpeg');
+body {
+  background : url('./image/The_Last_Of_Us.jpeg');
 }
-</style>
