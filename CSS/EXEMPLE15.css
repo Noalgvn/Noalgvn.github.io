@@ -1,18 +1,89 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
+/* Place your CSS styles in this file */
+
 body {
-  background : url('./image/The_Last_Of_US.jpeg');
+  background : url('./image/The_Last_Of_Us.jpeg');
+  
 }
 
 img {
   position: absolute;
-  top: 0px;
+  top: 75px;
   left: 0px;
   z-index: -1;
 }
 
+#menu>ul {
+  list-style-type: none;
+}
 
+#menu>ul>li {
+  background-color:6C432D ;
+  position: absolute;
+  top: 75px;
+  left: 5px;
+  padding: 25px;
+  border-radius: 10px;
+  width: 1290px;
+  height: 50px;
+  z-index: -1;
+}
+
+.listeHorizontale {
+  list-style-type: none;
+  margin-top: 70px;
+  margin-left: 15px;
+  padding: 0;
+}
+
+.listeHorizontale li {
+  display: inline;
+  margin-right: 110px;
+  z-index: -1;
+  background-color: F1E187;
+  padding: 10px;
+  border-radius: 10px;
+   
+}
+
+a {
+  color: white;
+}
+
+p {
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  color: white;
+}
+
+div.fixe {
+  position: absolute;
+  top: 150px;
+  left: 935px;
+  
+}
+
+p2 {
+  position: absolute;
+  top: 450px;
+  left: 0px;
+  color: white;
+}
+
+body img {
+  display: inline;
+  margin-right: 120px;
+}
+
+p3 {
+  position: absolute;
+  top: 650px;
+  left: 0px;
+  color: white;
+}
+
+iframe {
+  position: absolute;
+  top: -540px;
+  left: 25px;
+}
